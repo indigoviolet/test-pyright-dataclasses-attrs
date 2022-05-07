@@ -5,9 +5,9 @@ description = ""
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
-python = ">=3.8.0,<3.9"
-django-attrs = "^0.1.1"
+python = "^3.9"
 attrs = "^21.4.0"
+pyright = "^1.1.245"
 
 [tool.poetry.dev-dependencies]
 

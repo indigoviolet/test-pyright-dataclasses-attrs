@@ -2,7 +2,6 @@ from dataclasses import dataclass, field
 
 import attrs
 
-
 @dataclass
 class Parent:
     foo: int = field(default=2)
